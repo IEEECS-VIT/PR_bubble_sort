@@ -1,4 +1,4 @@
-#Bubble Sort
+# Bubble Sort
 
 Bubble sort is a sorting algorithm which helps you sort a given array.
 
